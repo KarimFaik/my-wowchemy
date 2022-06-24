@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Last Week"
-subtitle: "How i spent last week"
-summary: "In this post i will tell you how i spent last week"
+title: "Last Week "
+subtitle: "last week"
+summary: "My last week"
 authors: [Faik Karim]
 tags: []
 categories: []
@@ -28,16 +28,14 @@ image:
 projects: []
 ---
 
-# What i did last week
-
-week 1
+week 3
 
 ## How i spent my last week
 
-1. The most important i did was my lablatory works.
-2. In my free time i watches tv series (Kenobi) with cast; Ewan McGregor and Hayden Christensen.
-3. I went to gym several times.
+1. The most important i did find a place ticket to country i was dreaming to tarvel.
+2. I got some new clothes
+3. bought new sunglases for the beach.
 
 ## My review of the week
 
-The week has been productive. I did alot of tasks, didn't have alot of free time. I am exited for the next week.
+So excited to finally travel to country i dreamed of.
