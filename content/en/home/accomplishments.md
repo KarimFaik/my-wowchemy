@@ -29,7 +29,7 @@ item:
     description: Employee of the month.
     organization: 
     organization_url: 
-    title: Kiadrom
+    title: Kinadrom
     url: 'https://www.film.ru/cinemas/kinodrom'
   - certificate_url: 
     date_end: ''
