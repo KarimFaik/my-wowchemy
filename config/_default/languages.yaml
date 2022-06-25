@@ -18,15 +18,15 @@ ru:
       - name: Обо мне
         url: '#about'
         weight: 10
-      - name: Posts
-        url: Посты
+      - name: Посты
+        url: '#posts'
         weight: 20
       - name: Проекты
         url: '#projects'
         weight: 30
-      #  - name: Talks
-      #    url: '#talks'
-      #    weight: 40
+      - name: Разговоры
+        url: '#talks'
+        weight: 40
       - name: Публикации
         url: '#featured'
         weight: 50
